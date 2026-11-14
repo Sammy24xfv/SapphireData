@@ -15,6 +15,38 @@
           "sha1": "264ed356976e80fa719f81fe10b60511c1608120"
         }
       ]
+    },
+    "1.21.1": {
+      "fabric": [
+        {
+          "path": "/sapphire/bundles/1.21.1/fabric/performance.mrpack",
+          "sha1": "09c7a7515d591720f0eb361ee80dd3c0341de47a"
+        }
+      ]
+    },
+    "1.21.10": {
+      "fabric": [
+        {
+          "path": "/sapphire/bundles/1.21.10/fabric/performance.mrpack",
+          "sha1": "c592c52c8bcd85eed765b5ba5610442a84d251dc"
+        }
+      ]
+    },
+    "26.1.2": {
+      "fabric": [
+        {
+          "path": "/sapphire/bundles/26.1.2/fabric/performance.mrpack",
+          "sha1": "71afb2749f2bef9ba2b2ba2b371710fa54877595"
+        }
+      ]
+    },
+    "26.2": {
+      "fabric": [
+        {
+          "path": "/sapphire/bundles/26.2/fabric/performance.mrpack",
+          "sha1": "5795e02dae7decd3d943f7855e13775eb5e1882a"
+        }
+      ]
     }
   }
 }
