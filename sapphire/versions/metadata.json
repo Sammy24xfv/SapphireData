@@ -4,16 +4,20 @@
       "major_version": 26,
       "name": "26",
       "entries": [
-        { "minor_version": 3, "loader": "fabric", "name": "26.3" }
+        { "minor_version": 3, "loader": "fabric", "name": "26.3" },
+        { "minor_version": 2, "loader": "fabric", "name": "26.2" },
+        { "minor_version": 1, "patch_version": 2, "loader": "fabric", "name": "26.1.2" }
       ]
     },
     {
       "major_version": 21,
       "name": "1.21",
       "entries": [
-        { "minor_version": 11, "loader": "fabric", "name": "1.21.11" }
+        { "minor_version": 11, "loader": "fabric", "name": "1.21.11" },
+        { "minor_version": 10, "loader": "fabric", "name": "1.21.10" },
+        { "minor_version": 1, "loader": "fabric", "name": "1.21.1" }
       ]
     }
   ],
   "migrations": []
-}%
+}
