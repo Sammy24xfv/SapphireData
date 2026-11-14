@@ -1,10 +1,20 @@
 {
   "versions": {
     "26.3": {
-      "fabric": []
+      "fabric": [
+        {
+          "path": "/sapphire/bundles/26.3/fabric/performance.mrpack",
+          "sha1": "d5a53545befb1c9b7c01dc28b348030dbcd96cc0"
+        }
+      ]
     },
     "1.21.11": {
-      "fabric": []
+      "fabric": [
+        {
+          "path": "/sapphire/bundles/1.21.11/fabric/performance.mrpack",
+          "sha1": "264ed356976e80fa719f81fe10b60511c1608120"
+        }
+      ]
     }
   }
 }
