@@ -4,18 +4,18 @@
       "major_version": 26,
       "name": "26",
       "entries": [
-        { "minor_version": 3, "loader": "fabric", "name": "26.3", "art": "/sapphire/versions/art/26.3-1.jpg" },
-        { "minor_version": 2, "loader": "fabric", "name": "26.2", "art": "/sapphire/versions/art/26.2-1.jpg" },
-        { "minor_version": 1, "patch_version": 2, "loader": "fabric", "name": "26.1.2", "art": "/sapphire/versions/art/26.1.2-1.jpg" }
+        { "minor_version": 3, "loader": "fabric", "name": "26.3", "art": "/sapphire/versions/art/26.3-2.jpg" },
+        { "minor_version": 2, "loader": "fabric", "name": "26.2", "art": "/sapphire/versions/art/26.2-2.jpg" },
+        { "minor_version": 1, "patch_version": 2, "loader": "fabric", "name": "26.1.2", "art": "/sapphire/versions/art/26.1.2-2.jpg" }
       ]
     },
     {
       "major_version": 21,
       "name": "1.21",
       "entries": [
-        { "minor_version": 11, "loader": "fabric", "name": "1.21.11", "art": "/sapphire/versions/art/1.21.11-1.jpg" },
-        { "minor_version": 10, "loader": "fabric", "name": "1.21.10", "art": "/sapphire/versions/art/1.21.10-1.jpg" },
-        { "minor_version": 1, "loader": "fabric", "name": "1.21.1", "art": "/sapphire/versions/art/1.21.1-1.jpg" }
+        { "minor_version": 11, "loader": "fabric", "name": "1.21.11", "art": "/sapphire/versions/art/1.21.11-2.jpg" },
+        { "minor_version": 10, "loader": "fabric", "name": "1.21.10", "art": "/sapphire/versions/art/1.21.10-2.jpg" },
+        { "minor_version": 1, "loader": "fabric", "name": "1.21.1", "art": "/sapphire/versions/art/1.21.1-2.jpg" }
       ]
     }
   ],
